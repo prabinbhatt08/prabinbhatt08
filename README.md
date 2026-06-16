@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Prabin Bhatt</h1>
-<h3 align="center">Iam currently 2nd semester student of BE computer engineering at Farwestern University Of Engineering.</h3>
+<h3 align="center">Iam currently 4th semester student of BE computer engineering at Farwestern University Of Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabin2062&label=Profile%20views&color=0e75b6&style=flat" alt="prabin2062" /> </p>
 
